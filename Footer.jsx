@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="bg-cocoa-dark text-white text-center py-10"><div className="font-serif text-2xl">Velvet & Cocoa</div><p className="text-gray-300">Handcrafted chocolates, sweets, cakes & gifts.</p></footer>}
